@@ -1,0 +1,305 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(Latar\ belakang\ Gambar\ Latar\ Belakang\ Kertas\ Yang\ Kusut\ Gambar\ Wallpaper\ Untuk\ Download\ Gratis\ -\ Pngtree.jpeg);
+    background-size: 120vh;
+}
+
+.tentangkita {
+    font-size: 20px;
+}
+
+header {
+    padding: 20px;
+    background-color: #333;
+}
+
+nav {
+    background-color: #333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+}
+
+a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 60px;
+    height: 350px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.footer-section {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer-section h2 {
+    color: red;
+}
+
+.footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer-bottom {
+    font-size: 0.8em;
+}
+
+.footer-section a img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.footer-section a img:hover {
+    opacity: 0.8;
+}
+
+.anjay {
+    margin-top: 100px;
+}
+
+.sehat {
+    color: red;
+}
+
+.logo {
+    flex-direction: row;
+}
+
+.seger {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 50px;
+}
+
+.RS {
+    display: flex;
+    margin-right: 1450px;
+}
+
+.budal {
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 245px;
+}
+
+.paragraf {
+    font-size: 26px;
+    padding-left: 5%;
+    padding-right: 30%;
+    padding-top: 0%;
+    padding-bottom: 10%;
+}
+
+.cover {
+    display: flex;
+    flex-direction: row;
+}
+
+.gambar {
+    padding: 0%;
+    padding-top: 125px;
+    margin-right: 150px;
+}
+
+.alhamdulillah {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.kontol {
+    background-color: red;
+}
+
+.judul {
+    font-size: 50px;
+    padding-left: 3%;
+}
+
+.r {
+    background-color: grey;
+    width: 1700px;
+    margin-left: 110px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+}
+
+.judulr {
+    font-size: 39px;
+    padding-left: 5%;
+    padding-right: 45%;
+    padding-top: 4%;
+    padding-bottom: 4px;
+}
+
+.paragrafr {
+    font-size: 26px;
+    padding-left: 5%;
+    padding-right: 30%;
+    padding-top: 0%;
+    padding-bottom: 10%;
+}
+
+.gambarr {
+    margin-top: 155px;
+    margin-right: 85px;
+}
+
+.e {
+    background-color: grey;
+    width: 1700px;
+    margin-top: 50px;
+    margin-left: 110px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+}
+
+.judule {
+    font-size: 39px;
+    padding-left: 5%;
+    padding-right: 45%;
+    padding-top: 4%;
+    padding-bottom: 4px;
+}
+
+.paragrafe {
+    font-size: 26px;
+    padding-left: 5%;
+    padding-right: 30%;
+    padding-top: 0%;
+    padding-bottom: 10%;
+}
+
+.gambare {
+    margin-top: 100px;
+    margin-right: 85px;
+    margin-bottom: 80px;
+}
+
+.y {
+    background-color: grey;
+    width: 1700px;
+    margin-top: 50px;
+    margin-left: 110px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+}
+
+.juduly {
+    font-size: 39px;
+    padding-left: 5%;
+    padding-right: 45%;
+    padding-top: 4%;
+    padding-bottom: 4px;
+}
+
+.paragrafy {
+    font-size: 26px;
+    padding-left: 5%;
+    padding-right: 30%;
+    padding-top: 0%;
+    padding-bottom: 10%;
+}
+
+.gambary {
+    margin-top: 100px;
+    margin-right: 85px;
+    margin-bottom: 80px;
+}
+
+.kirimsaiki {
+    font-size: 67px;
+}
+
+.coba {
+    margin-left: 645px;
+}
+
+.engine {
+    font-size: 100px;
+    color: black;
+    padding-left: 350px;
+    padding-top: 200px;
+    height: 5px;
+}
+
+.star {
+    font-size: 95px;
+    color: red;
+}
+
+.x {
+    font-size: 80px;
+    color: red;
+    padding-left: 350px;
+    padding-bottom: 70px;
+    padding-top: none;
+    padding: flex;
+    height: 10px;
+}
+
+.z {
+    font-size: 65px;
+    color: black;
+}
+
+.tombol {
+    font-size: 30px;
+    box-sizing: content-box;
+}
+
+.botol {
+    border-radius: 50px;
+    margin-left: 950px;
+    margin-bottom: 350px;
+    margin-top: 10px;
+    width: fit-content;
+    font-size: 40px;
+    color: red;
+    background-color: white;
+}
+
+.aboutme {
+    padding-left: 250px;
+    padding-top: 100px;
+    font-size: 45px;
+}
+
+.paragraf {
+    padding-left: 250px;
+}
