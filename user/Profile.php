@@ -13,24 +13,28 @@
         <nav>
             <ul class="seger">
                 <ul class="biasa">
-                    <li><a href="landing page.html">Beranda</a></li>
-                    <li><a href="tentang kami.html">Tentang Kami</a></li>
-                    <li><a href="Layanan.html">Layanan</a></li>
+                    <li><a href="landing page.php">Beranda</a></li>
+                    <li><a href="tentang kami.php">Tentang Kami</a></li>
+                    <li><a href="#">Layanan</a></li>
                 </ul>
                 <ul class="RS">
-                    <a class="sakit" href="#" class="logo"><span class="sehat">Budal</span> Kirim</a>
+                    <p class="sakit" href="#" class="logo"><span class="sehat">Budal</span> Kirim</p>
                 </ul>
             </ul>
         </nav>
     </header>
-    <section class="start">
+
+    <section class="profil">
         <div>
-            <h1 class="engine"> WELCOME<span class="star"> TO</span></h1>
-            <h2 class="x"> BUDAL<span class="z"> KIRIM</span></h2>
-            <a class="botol" href="landing page.html" class="gelas"><span class="sendok">Get</span>  Started</a>
+            <h2 class="aboutme">About me</h2>
+            <div class="perkenalan">
+                <p class="paragraf">Perkenalkan saya Reyjuno Al Cannavaro, biasa dipanggil Rey. Saya bersekolah di SMK TELKOM SIDOARJO kelas X SIJA 2, saya mengambil jurusan Sistem Informasi Jaringan & Aplikasi (SIJA). Saya lahir pada 3 Juni 2007 di Surabaya. Saya bercita
+                    cita menjadi web developer dan penulis novel yang menginspirasi banyak orang. Saya ingin menjadi inspiratif bagi orang banyak. Ketika hari tua, saya ingin menjadi seorang guru besar supaya saya dapat membagikan ilmu yang bermanfaat
+                    yang saya dapat selama saya hidup di dunia. Saya juga bercita cita ingin berkuliah di Massachussetts Insitute of Technology di Massachussetts Ave, Cambridge, Amerika Serikat. Saya ingin menjadi bermanfaat bagi orang banyak disekitar
+                    saya, mengharumkan nama bangsa, dan menjadi orang yang berpengaruh di dunia internasional</p>
+            </div>
         </div>
     </section>
-
 
     <footer class="anjay">
         <div class="footer-content">
@@ -47,7 +51,7 @@
             <div class="footer-section social">
                 <h2>Ikuti Kami</h2>
                 <p>Temui kami di media sosial:</p>
-                <a href="Profile.html" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
+                <a href="Profile.php" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
                 <a href="https://twitter.com/deianersait" target="_blank"><img src="twt icon.png" alt="Twitter"></a>
                 <a href="https://www.instagram.com/reycannavaro/" target="_blank"><img src="ig icon.png" alt="Instagram"></a>
             </div>

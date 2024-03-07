@@ -21,7 +21,7 @@ if($cek > 0) {
     }else if ($data['level']=="user"){
         $_SESSION['username'] = $username;
         $_SESSION['level'] = "user";
-        header("location:user/landing page.html");
+        header("location:user/landing page.php");
 
     }else{
         header("location:index.php");

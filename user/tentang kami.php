@@ -13,9 +13,9 @@
         <nav>
             <ul class="seger">
                 <ul class="biasa">
-                    <li><a href="landing page.html">Beranda</a></li>
-                    <li><a href="tentang kami.html">Tentang Kami</a></li>
-                    <li><a href="Layanan.html">Layanan</a></li>
+                    <li><a href="landing page.php">Beranda</a></li>
+                    <li><a href="tentang kami.php">Tentang Kami</a></li>
+                    <li><a href="Layanan.php">Layanan</a></li>
                 </ul>
                 <ul class="RS">
                     <a class="sakit" href="#" class="logo"><span class="sehat">Budal</span> Kirim</a>
@@ -74,7 +74,7 @@
             <div class="footer-section social">
                 <h2>Ikuti Kami</h2>
                 <p>Temui kami di media sosial:</p>
-                <a href="Profile.html" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
+                <a href="Profile.php" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
                 <a href="https://twitter.com/deianersait" target="_blank"><img src="twt icon.png" alt="Twitter"></a>
                 <a href="https://www.instagram.com/reycannavaro/" target="_blank"><img src="ig icon.png" alt="Instagram"></a>
             </div>

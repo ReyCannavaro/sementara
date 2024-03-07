@@ -13,9 +13,9 @@
         <nav>
             <ul class="seger">
                 <ul class="biasa">
-                    <li><a href="landing page.html">Beranda</a></li>
-                    <li><a href="tentang kami.html">Tentang Kami</a></li>
-                    <li><a href="Layanan.html">Layanan</a></li>
+                    <li><a href="landing page.php">Beranda</a></li>
+                    <li><a href="tentang kami.php">Tentang Kami</a></li>
+                    <li><a href="Layanan.php">Layanan</a></li>
                 </ul>
                 <ul class="RS">
                     <a class="sakit" href="#" class="logo"><span class="sehat">Budal</span> Kirim</a>
@@ -23,17 +23,20 @@
             </ul>
         </nav>
     </header>
-    <section class="kirimsaiki">
-        <div class="coba">
-            <h2>KIRIM SAIKI</h2>
+    <section class="start">
+        <div>
+            <h1 class="engine"> WELCOME<span class="star"> TO</span></h1>
+            <h2 class="x"> BUDAL<span class="z"> KIRIM</span></h2>
+            <a class="botol" href="landing page.html" class="gelas"><span class="sendok">Get</span>  Started</a>
         </div>
     </section>
+
 
     <footer class="anjay">
         <div class="footer-content">
             <div class="footer-section about">
-                <h2>About Us</h2>
-                <p>Budal kirim adalah jasa pengiriman barang di seluruh Indonesia, kami mencangkup seluruh wilayah di seluruh Indonesia dari perkotaan hingga pelosok pelosok terpencil di Indonesia. Kami menjalankan jasa pengiriman barang dengan cepat, murah,
+                <h2 class="Aboutus">About Us</h2>
+                <p class="tentangkita">Budal kirim adalah jasa pengiriman barang di seluruh Indonesia, kami mencangkup seluruh wilayah di seluruh Indonesia dari perkotaan hingga pelosok pelosok terpencil di Indonesia. Kami menjalankan jasa pengiriman barang dengan cepat, murah,
                     dan bisa COD (Cash on Delivery), kami melayani pengiriman antar negara, antar provinsi, antar kota, antar kecamatan, antar desa, maupun antar tetangga. Kami memiliki keunggulan pengiriman yang cepat, daerah jangkauan yang luas, dan
                     keramahan kurir kami.</p>
             </div>
@@ -44,7 +47,7 @@
             <div class="footer-section social">
                 <h2>Ikuti Kami</h2>
                 <p>Temui kami di media sosial:</p>
-                <a href="Profile.html" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
+                <a href="Profile.php" target="_blank"><img src="prsn icon.png" alt="Profile"></a>
                 <a href="https://twitter.com/deianersait" target="_blank"><img src="twt icon.png" alt="Twitter"></a>
                 <a href="https://www.instagram.com/reycannavaro/" target="_blank"><img src="ig icon.png" alt="Instagram"></a>
             </div>
@@ -53,5 +56,4 @@
             <p>&copy; 2023 Jasa Pengiriman Barang - All rights reserved.</p>
         </div>
     </footer>
-
 </body>
