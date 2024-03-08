@@ -13,7 +13,7 @@ if (isset($_POST['delete'])) {
     }
 }
 
-$sql    = "SELECT * FROM users";
+$sql    = "SELECT * FROM user";
 $result = $con->query($sql);
 
 if ($result ->num_rows > 0) {
