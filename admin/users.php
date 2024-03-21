@@ -38,8 +38,8 @@ if ($result ->num_rows > 0) {
             echo "<td>" . $row['nama'] . "</td>";
             echo "<td>" . $row['password'] . "</td>";
             echo "<td>" . $row['domisili'] . "</td>";
-            echo "<td><input type='submit' name='delete' value='Delete' class='btn btn-danger' /></td>";
-            echo "<td><a href='edit.php?id=" . $row['id'] . "' class='btn btn-info'>Edit</a></td>";
+            echo "<td><a href='delete_user.php?id=" . $row['id'] . "' class='btn-hapus'>Hapus</a></td>";
+            echo "<td><a href='update_user.php?id=" . $row['id'] . "' class='btn-update'>Update</a></td>";
             echo "<tr>";
             echo "</form>";
         }
