@@ -18,11 +18,6 @@
             <label for="password">Password</label>
             <input type="password" id="password" name="password" required>
 
-            <label for="level">Level</label>
-            <select id="level" name="level" required>
-                <option value="user">User</option>
-            </select>
-
             <label for="domisili">Domisili</label>
             <input type="text" id="domisili" name="domisili" required>
 
@@ -38,14 +33,14 @@
             $nama= $_POST['nama'];
             $username= $_POST['username'];
             $password= $_POST['password'];
-            $level= $_POST['level'];
+            $level= 'user';
             $domisili= $_POST['domisili'];
             echo($password);
 
             include_once("../koneksi.php");
 
             $result = mysqli_query($mysqli,"INSERT INTO user(nama,username,password,level,domisili)
-            VALUES('$nama','$username','$password','$level','$domisili')");
+            VALUES('$nama','$username','$password','user','$domisili')");
 
             header("location:../index.php");
         }

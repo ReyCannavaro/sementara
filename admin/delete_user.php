@@ -1,5 +1,5 @@
 <?php
-include 'connect.php';
+include '../koneksi.php';
 
 $id = $_GET['id']; // Ambil id user dari parameter URL
 
@@ -11,6 +11,6 @@ if($hapus) {
     header("Location: users.php");
     exit();
 } else {
-    echo "Gagal menghapus user.";
+    echo "Gagal menghapus user.";
 }
 ?>

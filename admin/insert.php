@@ -8,7 +8,7 @@ require_once 'header.php';
 <div class="container">
     <?php
 
-    if (isset($_POST['addnew'])) {
+    if (isset($_POST['addnew'])) {;
 
         if (empty($_POST['username']) || empty($_POST['nama']) || empty($_POST['password']) || empty($_POST['domisili'])) {
             echo "Please fillout all required fields";
