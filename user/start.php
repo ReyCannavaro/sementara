@@ -27,7 +27,7 @@
         <div>
             <h1 class="engine"> WELCOME<span class="star"> TO</span></h1>
             <h2 class="x"> BUDAL<span class="z"> KIRIM</span></h2>
-            <a class="botol" href="landing page.html" class="gelas"><span class="sendok">Get</span>  Started</a>
+            <a class="botol" href="landing page.php" class="gelas"><span class="sendok">Get</span>  Started</a>
         </div>
     </section>
 
